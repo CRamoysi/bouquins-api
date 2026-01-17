@@ -57,3 +57,10 @@ htmlcov/
 # Claude temp files
 tmpclaude-*
 .claude/
+
+# Documentation temporaire / Notes de développement
+ERRORS_TO_FIX.md
+CLEANUP_TODO.md
+STATUS.md
+EXERCICES.md
+STREAMLIT_EXEMPLES.md
